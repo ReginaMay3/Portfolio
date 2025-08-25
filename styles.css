@@ -47,7 +47,7 @@ h1:hover{
   color: var(--color1);
 }
 
-@media (min-width: 1300px) {
+@media (max-width: 100px) {
   body{
     background-color: rgba(25, 255, 250, 0.1);
   }
