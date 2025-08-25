@@ -47,7 +47,7 @@ h1:hover{
   color: var(--color1);
 }
 
-@media (max-width: 100px) {
+@media (max-width: 1000px) {
   h1{
     color: #0E2C40;
   }
